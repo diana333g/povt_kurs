@@ -4,6 +4,7 @@ public class Working {
     public Working(){
 
     }
+	//sadasdasdasd
     public Working(String name, int price){
         this.name = name;
         this.price = price;
